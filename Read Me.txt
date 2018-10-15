@@ -1,0 +1,3 @@
+Local Group Policy > User Configuration > Windows Settings > Scripts (Logon/Logoff) > Logon > Add
+
+Local Group Policy > Computer Configuration > Administrative Templates > System > Group Policy > Configure Logon Script Delay > Enabled > Options > 0 min
